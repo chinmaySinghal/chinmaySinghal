@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chinmaySinghal/chinmaySinghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Chinmay 👋
+
+[![LinkedIn bade](https://img.shields.io/badge/chinmaysinghal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaysinghal/)
+
+- 🔭 I’m currently working as a Machine Learning Engineer at [MD.ai](MD.ai)
+- :musical_note: I enjoy playing the guitar and [composing songs](https://soundcloud.com/chinmaysinghal) in my freetime.
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=chinmaySinghal&show_icons=true&include_all_commits=true)](https://github.com/chinmaySinghal)
