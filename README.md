@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 ### Hi there, I'm Chinmay 👋
 
 [![LinkedIn bade](https://img.shields.io/badge/chinmaysinghal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaysinghal/)
+[![Twitter Badge](https://img.shields.io/badge/-@_chinmaysinghal__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chinmaysinghal_)](https://twitter.com/chinmaysinghal_)
+
 
 - 🔭 I’m currently working as a Machine Learning Engineer at [MD.ai](MD.ai)
 - :musical_note: I enjoy playing the guitar and [composing songs](https://soundcloud.com/chinmaysinghal) in my freetime.
