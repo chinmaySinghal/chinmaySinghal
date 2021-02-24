@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@_chinmaysinghal__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chinmaysinghal_)](https://twitter.com/chinmaysinghal_)
 
 
-- 🔭 I’m currently working as a Machine Learning Engineer at [MD.ai](MD.ai)
+- 🔭 I’m currently working as a Machine Learning Engineer at [MD.ai](https://md.ai/)
 - :musical_note: I enjoy playing the guitar and [composing songs](https://soundcloud.com/chinmaysinghal) in my freetime.
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=chinmaySinghal&show_icons=true&include_all_commits=true)](https://github.com/chinmaySinghal)
