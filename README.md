@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Machine Learning Engineer at [MD.ai](https://md.ai/)
 - :musical_note: I enjoy playing the guitar and [composing songs](https://soundcloud.com/chinmaysinghal) in my freetime.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=chinmaySinghal&show_icons=true&include_all_commits=true)](https://github.com/chinmaySinghal)
+<!--- [![Github stats](https://github-readme-stats.vercel.app/api?username=chinmaySinghal&show_icons=true&include_all_commits=true)](https://github.com/chinmaySinghal) --->
